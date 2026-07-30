@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""Fetches url
-using the request moduel
-"""
+"""Fetches https://intranet.hbtn.io/status using requests."""
 import requests
 
 
